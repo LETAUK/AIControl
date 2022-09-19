@@ -6,4 +6,4 @@
 
 ### 간단하게 자기소개를 하겠습니다.
 
- <img src="https://i.esdrop.com/d/ZklKfna5T3.jpg">
+
