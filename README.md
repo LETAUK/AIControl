@@ -1,7 +1,9 @@
 # AIControl
 
-![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYNMP 로고")
 나의 첫번째 마크다운 파일입니다.
+
+![KakaoTalk_20220822_163717510](https://user-images.githubusercontent.com/112088764/191095387-5c4d2a5c-2ced-4a74-aeba-10703fa0c6e9.jpg)
+
 
 <header id="header">
 <!-- 이력서 헤더 : 이름과 타이틀 작성 -->
@@ -50,5 +52,3 @@
    조만간 발명경진 대회에 나가 상을 탈 것이다.
   </ul>
 </section>
-
-      ![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYNMP 로고")
