@@ -49,3 +49,11 @@
    조만간 발명경진 대회에 나가 상을 탈 것이다.
   </ul>
 </section>
+      @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
+body {
+    max-width: 960px;    /* 최대 너비 */
+    margin: auto;         /* 마진 auto - 내용을 화면 가운데 맞추기 위해  */
+    font-family: "Noto Sans KR", "Nanum Gothic";        /* 글꼴 - 웹 폰트 */
+    font-size:14px;     /* 글자 크기 */
+      
