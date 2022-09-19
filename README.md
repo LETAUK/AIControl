@@ -6,6 +6,4 @@
 
 ### 간단하게 자기소개를 하겠습니다.
 
-- [ ] 아메리카노
-- [x] 카페라떼
-- [ ] 카푸치노
+ <img src="https://i.esdrop.com/d/ZklKfna5T3.jpg">
