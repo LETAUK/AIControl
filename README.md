@@ -4,7 +4,7 @@
 
 <header id="header">
 <!-- 이력서 헤더 : 이름과 타이틀 작성 -->
-  <h1>LeeTaeuk</h1>
+  <h1>이태욱</h1>
   <hr>
      초보 개발자(Smart-Factory)
  <hr>
@@ -22,10 +22,7 @@
         <i class="fa fa-facebook" aria-hidden="true"></i>
         <a href="dlxo1107@naveer.com">dlxo1107@naver.com</a>
       </p>
-      <p>
-        <i class="fa fa-github" aria-hidden="true"></i>
-        <a href="https://www.github.com/peacein">Github</a>
-      </p>      
+     
     </section>
 <section>
   <h2>SKILLS</h2>
