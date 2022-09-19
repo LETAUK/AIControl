@@ -26,7 +26,7 @@
 <section>
   <h2>내가배우는기술</h2>
   <!-- 자신이 잘할 수 있는 분야 -->
-  <p>vim , Visual Studio Code ,  </p>
+  <p>vim , Visual Studio Code   </p>
 </section>
 <section>
   <h2>학력</h2>
