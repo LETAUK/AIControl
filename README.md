@@ -20,7 +20,7 @@
       </p>
       <p>
         <i class="fa fa-facebook" aria-hidden="true"></i>
-        <a href="페이스북 연결 주소">Facebook</a>
+        <a href="dlxo1107@naveer.com">dlxo1107@naver.com</a>
       </p>
       <p>
         <i class="fa fa-github" aria-hidden="true"></i>
