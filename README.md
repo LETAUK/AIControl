@@ -10,11 +10,6 @@
  <hr>
 </header>
 <main>
-  main {
-    display: grid;    /* css grid 사용 */
-    grid-template-columns: 40% 60%; /* 왼쪽 40%, 오른쪽 60% */
-    margin-top: 3rem;
-}
   <article id="mainLeft">
     <section>
       <h2>내이메일주소</h2>
