@@ -17,8 +17,8 @@
       <!-- 소셜 미디어를 비롯한 연락처 정보 -->
     <p>
       <i class="fa fa-envelope" aria-hidden="true"></i>
-        <a href="mailto:funcom@gmail.com">funcom@gmail.com</a>
-    <section>
+        <a href="mailto:dlxo1107@gmail.com">funcom@gmail.com</a>
+    </p>
       <h2>SKILLS</h2>
       <!-- 자신이 잘할 수 있는 분야 -->
      </section>
