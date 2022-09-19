@@ -49,5 +49,4 @@
    조만간 발명경진 대회에 나가 상을 탈 것이다.
   </ul>
 </section>
-! [사진] (![KakaoTalk_20220822_163717510](https://user-images.githubusercontent.com/112088764/191094755-aa9abe69-e455-4537-8f26-9a9de136af4e.jpg)
-
+![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYNMP 로고")
