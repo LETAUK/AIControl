@@ -6,4 +6,4 @@
 
 ### 간단하게 자기소개를 하겠습니다.
 
-&animation=fadeIn
+![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYMNP 로고")
