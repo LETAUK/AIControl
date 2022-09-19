@@ -49,3 +49,4 @@
    조만간 발명경진 대회에 나가 상을 탈 것이다.
   </ul>
 </section>
+![KakaoTalk_20220822_163717510](https://user-images.githubusercontent.com/112088764/191094575-459065c1-ef49-439e-b764-1715f97e4f5f.jpg)
