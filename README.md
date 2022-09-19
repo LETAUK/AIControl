@@ -1,5 +1,24 @@
 # AIControl
 
+<head>
+    <meta charset="UTF-8"> <!-- 한글 깨짐 방지 -->
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, 
+minimum-scale=1.0, width=device-width">
+    <meta name="author" content="HADAN">
+    <title>HADAN | Portfolio</title> <!-- 탭에 표시되는 사이트 이름 -->
+
+    <!-- style: css파일을 html파일에 연결해줌. 링크는 파일 경로 -->
+    <link rel="stylesheet" type="text/css" href="assets/css/reset.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/style4.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/animate.css">
+
+    <!-- 웹 폰트 -->
+    <link href="https://fonts.googleapis.com/css?family=Nanum+Gothic" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Chau+Philomene+One" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Baloo+Bhaina" rel="stylesheet">
+</head>
+Colored
+
 나의 첫번째 마크다운 파일입니다.
 
 ![KakaoTalk_20220822_163717510](https://user-images.githubusercontent.com/112088764/191095387-5c4d2a5c-2ced-4a74-aeba-10703fa0c6e9.jpg)
