@@ -6,6 +6,6 @@
 <!-- 이력서 헤더 : 이름과 타이틀 작성 -->
   <h1>LeeTaeuk</h1>
   <hr>
-     프론트엔드 개발자(Smart-Factory)
+     초보 개발자(Smart-Factory)
   <hr>
 </header>
