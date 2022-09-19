@@ -24,9 +24,9 @@
       </p>
      
 <section>
-  <h2>SKILLS</h2>
+  <h2>내가배우는기술</h2>
   <!-- 자신이 잘할 수 있는 분야 -->
-  <p>HTML, CSS, Javascript(ES6), React, VS Code, Git/GitHub </p>
+  <p>vim , Visual Studio Code ,  </p>
 </section>
 <section>
   <h2>EDUCATION</h2>
