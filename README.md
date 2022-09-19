@@ -56,4 +56,14 @@ body {
     margin: auto;         /* 마진 auto - 내용을 화면 가운데 맞추기 위해  */
     font-family: "Noto Sans KR", "Nanum Gothic";        /* 글꼴 - 웹 폰트 */
     font-size:14px;     /* 글자 크기 */
-      
+      h1 {
+    font-size: 3rem;    /* 글자 크기 */
+    letter-spacing: 0.6rem;  /* 자간 */
+    padding-top: 1rem;   /* 위쪽 패딩 */
+    padding-bottom: 1rem;   /*  아래쪽 패딩 */
+}
+
+h2 {
+    font-size: 1.5rem;
+    padding-bottom: 1em;
+}
