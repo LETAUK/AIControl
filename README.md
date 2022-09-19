@@ -50,4 +50,5 @@
    조만간 발명경진 대회에 나가 상을 탈 것이다.
   </ul>
 </section>
-![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYNMP 로고")
+
+      ![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYNMP 로고")
