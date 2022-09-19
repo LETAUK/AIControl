@@ -9,3 +9,25 @@
      초보 개발자(Smart-Factory)
  <hr>
 </header>
+<main>
+  <article id="mainLeft">
+    <section>
+      <h2>CONTACT</h2>
+      <!-- 소셜 미디어를 비롯한 연락처 정보 -->
+      <p>
+        <i class="fa fa-envelope" aria-hidden="true"></i>
+        <a href="mailto:funcom@gmail.com">funcom@gmail.com</a>
+      </p>
+      <p>
+        <i class="fa fa-twitter" aria-hidden="true"></i>
+        <a href="트위터 연결 주소">Twiter</a>
+      </p>
+      <p>
+        <i class="fa fa-facebook" aria-hidden="true"></i>
+        <a href="페이스북 연결 주소">Facebook</a>
+      </p>
+      <p>
+        <i class="fa fa-github" aria-hidden="true"></i>
+        <a href="https://www.github.com/peacein">Github</a>
+      </p>      
+    </section>
