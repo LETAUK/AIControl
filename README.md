@@ -23,7 +23,6 @@
         <a href="dlxo1107@naveer.com">dlxo1107@naver.com</a>
       </p>
      
-    </section>
 <section>
   <h2>SKILLS</h2>
   <!-- 자신이 잘할 수 있는 분야 -->
