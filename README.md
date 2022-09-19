@@ -1,5 +1,6 @@
 # AIControl
 
+![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYNMP 로고")
 나의 첫번째 마크다운 파일입니다.
 
 <header id="header">
@@ -49,4 +50,3 @@
    조만간 발명경진 대회에 나가 상을 탈 것이다.
   </ul>
 </section>
-![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYNMP 로고")
