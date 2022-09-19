@@ -27,3 +27,14 @@
         <a href="https://www.github.com/peacein">Github</a>
       </p>      
     </section>
+<section>
+  <h2>SKILLS</h2>
+  <!-- 자신이 잘할 수 있는 분야 -->
+  <p>HTML, CSS, Javascript(ES6), React, VS Code, Git/GitHub </p>
+</section>
+<section>
+  <h2>EDUCATION</h2>
+  <!-- 학력 -->
+  <p>XXX 대학교 - 컴퓨터공학 전공 (2015-2018)</p>
+  <p>OOO 고등학교 (2012-2014)</p>  
+</section>
