@@ -12,7 +12,7 @@
 <main>
   <article id="mainLeft">
     <section>
-      <h2>CONTACT</h2>
+      <h2>내이메일주소</h2>
       <!-- 소셜 미디어를 비롯한 연락처 정보 -->
       <p>
         <i class="fa fa-envelope" aria-hidden="true"></i>
