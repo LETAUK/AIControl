@@ -28,7 +28,7 @@
   <article id="mainRight">
     <section>
      <h2>ABOUT</h2>
-     <!-- 자기 소개 -->
+     <!-- 자기 소개 -->안녕
     </section>
     <section>
       <h2>WORK EXPERIENCE</h2>
