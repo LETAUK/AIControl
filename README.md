@@ -6,4 +6,6 @@
 
 ### 간단하게 자기소개를 하겠습니다.
 
-![LYNMP 로고](https://i.esdrop.com/d/dLd7n17hg9.png "LYMNP 로고")
+- [ ] 아메리카노
+- [x] 카페라떼
+- [ ] 카푸치노
