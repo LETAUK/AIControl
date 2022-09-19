@@ -19,10 +19,6 @@
         <a href="mailto:funcom@gmail.com">funcom@gmail.com</a>
       </p>
       <p>
-        <i class="fa fa-twitter" aria-hidden="true"></i>
-        <a href="트위터 연결 주소">Twiter</a>
-      </p>
-      <p>
         <i class="fa fa-facebook" aria-hidden="true"></i>
         <a href="페이스북 연결 주소">Facebook</a>
       </p>
