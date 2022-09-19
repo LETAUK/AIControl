@@ -29,7 +29,7 @@
   <p>vim , Visual Studio Code ,  </p>
 </section>
 <section>
-  <h2>EDUCATION</h2>
+  <h2>학</h2>
   <!-- 학력 -->
   <p>창원폴리텍대학교 - 스마트팩토리 재학중 (2022)</p>
   <p>창원공업고등학교 (2017-2020)</p>  
