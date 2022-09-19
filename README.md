@@ -16,7 +16,7 @@
       <!-- 소셜 미디어를 비롯한 연락처 정보 -->
       <p>
         <i class="fa fa-envelope" aria-hidden="true"></i>
-        <a href="mailto:funcom@gmail.com">funcom@gmail.com</a>
+        <a href="mailto:funcom@gmail.com">@gmail.com</a>
       </p>
       <p>
         <i class="fa fa-facebook" aria-hidden="true"></i>
