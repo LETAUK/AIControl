@@ -10,6 +10,11 @@
  <hr>
 </header>
 <main>
+  main {
+    display: grid;    /* css grid 사용 */
+    grid-template-columns: 40% 60%; /* 왼쪽 40%, 오른쪽 60% */
+    margin-top: 3rem;
+}
   <article id="mainLeft">
     <section>
       <h2>내이메일주소</h2>
@@ -49,8 +54,3 @@
    조만간 발명경진 대회에 나가 상을 탈 것이다.
   </ul>
 </section>
-main {
-    display: grid;    /* css grid 사용 */
-    grid-template-columns: 40% 60%; /* 왼쪽 40%, 오른쪽 60% */
-    margin-top: 3rem;
-}
