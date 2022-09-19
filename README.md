@@ -7,3 +7,5 @@
   <h1>LeeTaeuk</h1>
   <hr>
      초보 개발자(Smart-Factory)
+ <hr>
+</header>
