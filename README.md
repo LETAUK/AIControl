@@ -3,38 +3,9 @@
 나의 첫번째 마크다운 파일입니다.
 
 <header id="header">
-  <!-- 이력서 헤더 : 이름과 타이틀 작성 -->
-  <h1>이태욱</h1>
+<!-- 이력서 헤더 : 이름과 타이틀 작성 -->
+  <h1>PEACEIN</h1>
   <hr>
-  Smart Factory 1A 재학생
+    프론트엔드 개발자(Front-End Developer)
   <hr>
 </header>
-
-<main>
-  <article id="mainLeft">
-    <section>
-      <h2>CONTACT</h2>
-      <!-- 소셜 미디어를 비롯한 연락처 정보 -->
-    <p>
-      <i class="fa fa-envelope" aria-hidden="true"></i>
-        <a href="mailto:dlxo1107@gmail.com">funcom@gmail.com</a>
-    </p>
-      <h2>SKILLS</h2>
-      <!-- 자신이 잘할 수 있는 분야 -->
-     </section>
-     <section>
-      <h2>EDUCATION</h2>
-      <!-- 학력 -->
-    </section>            
-  </article>
-  <article id="mainRight">
-    <section>
-     <h2>ABOUT</h2>
-     <!-- 자기 소개 -->
-    </section>
-    <section>
-      <h2>WORK EXPERIENCE</h2>
-      <!-- 경력 작성 -->
-    </section>
-  </article>
-</main>
