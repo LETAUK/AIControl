@@ -2,7 +2,7 @@
 
 |%s|%c|%d|%f|
 |---|---|---|---|
-|내용 9|내용 10|내용 11|내용 12|
+|문자열(String)|문자 1개(character)|정수(Integer)|부동소수(floating-point)|
 
 
 
