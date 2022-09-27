@@ -4,6 +4,11 @@
 |---|---|---|---|
 |문자열(String)|문자 1개(character)|정수(Integer)|부동소수(floating-point)|
 
+
+|%s|%c|%d|%f|
+|---|---|---|---|
+|문자열(String)|문자 1개(character)|정수(Integer)|부동소수(floating-point)|
+
 나의 첫번째 마크다운 파일입니다.
 
 ![KakaoTalk_20220822_163717510](https://user-images.githubusercontent.com/112088764/191095387-5c4d2a5c-2ced-4a74-aeba-10703fa0c6e9.jpg)
