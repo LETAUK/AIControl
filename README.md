@@ -1,8 +1,8 @@
 # AIControl
 
-|%s|%c|제목 셀3|제목 셀4|
+|%s|%c|%d|%f||%s|%c|%d|%f|
 |---|---|---|---|
-|문자열(String)|문자 1개(character)|내용 3|내용 4|
+|문자열(String)|문자 1개(character)|정수(Integer)|부동소수(floating-point)|
 
 
 
