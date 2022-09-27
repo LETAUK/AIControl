@@ -5,9 +5,6 @@
 |문자열(String)|문자 1개(character)|정수(Integer)|부동소수(floating-point)|
 
 
-|%s|%c|%d|%f|
-|---|---|---|---|
-|문자열(String)|문자 1개(character)|정수(Integer)|부동소수(floating-point)|
 
 나의 첫번째 마크다운 파일입니다.
 
